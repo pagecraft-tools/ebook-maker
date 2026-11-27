@@ -1,0 +1,108 @@
+{
+    "version":  "2026.11.27-2",
+    "note":  "새 배포 주소(pagecraft-tools)로 이전",
+    "files":  [
+                  {
+                      "path":  "ebook-gui.ps1",
+                      "url":  "ebook-gui.ps1",
+                      "sha256":  "3ab5af7f4beb7ecba815b977439817ceac7a3eac5fa5b1ab88a448b6de4e5a39",
+                      "bytes":  30303
+                  },
+                  {
+                      "path":  "icon.ico",
+                      "url":  "icon.ico",
+                      "sha256":  "3d7adfdcc803366d7371629870f2a17f5f04c38bcbf3b42202fbe10872606690",
+                      "bytes":  19401
+                  },
+                  {
+                      "path":  "launcher.ps1",
+                      "url":  "launcher.ps1",
+                      "sha256":  "e49404f236fe51747181421c7307daaa9f9ef647c86f973627ee3f73c45ca215",
+                      "bytes":  2482
+                  },
+                  {
+                      "path":  "mail-html.py",
+                      "url":  "mail-html.py",
+                      "sha256":  "86b1d28a5b99a2b8236c8f336aedc8f52fb41d68b035effa29c3e534ad8be9f2",
+                      "bytes":  10489
+                  },
+                  {
+                      "path":  "이북만들기.bat",
+                      "url":  "make-ebook.bat",
+                      "sha256":  "71fb65e003b256d3fd3378b01a329fd7f48609f8aeed73dde4806f0623276662",
+                      "bytes":  216
+                  },
+                  {
+                      "path":  "make-ebook.ps1",
+                      "url":  "make-ebook.ps1",
+                      "sha256":  "922ffad8fc50917e09980a2ff30a2074ffe35d7a2919f6bac74e22df110f7361",
+                      "bytes":  9714
+                  },
+                  {
+                      "path":  "pdf2ebook.py",
+                      "url":  "pdf2ebook.py",
+                      "sha256":  "453c64eaff2ab031289342c63ec3c9d1215069fb677753eb339d66991fd8a30c",
+                      "bytes":  47577
+                  },
+                  {
+                      "path":  "제목바꾸기.bat",
+                      "url":  "retitle.bat",
+                      "sha256":  "6b27464823eb8cc9749fcce949eda5fd7b626b3d2cab880ef2806d99b38cf0eb",
+                      "bytes":  216
+                  },
+                  {
+                      "path":  "retitle.ps1",
+                      "url":  "retitle.ps1",
+                      "sha256":  "262b4ea0464455d37e70c495091122228635f65f7684e2dd277606b6e04804c5",
+                      "bytes":  4127
+                  },
+                  {
+                      "path":  "이북만들기(버튼).vbs",
+                      "url":  "start.vbs",
+                      "sha256":  "12dae0e483137ed30075c022240ce57cc191719f6c1a832c64ce23a9ebd3e317",
+                      "bytes":  556
+                  },
+                  {
+                      "path":  "update.ps1",
+                      "url":  "update.ps1",
+                      "sha256":  "1343f9a5d653edb497513e5a99c5ee703243c9280c6244da04ac2ceb1a4ed5ed",
+                      "bytes":  6056
+                  },
+                  {
+                      "path":  "viewer/배포요청서_템플릿.md",
+                      "url":  "viewer/deploy-note.md",
+                      "sha256":  "fbdf3e807b6c483246b8a82679d12a60dd524af590c6cbb2c0e00b6a0f16487a",
+                      "bytes":  4110
+                  },
+                  {
+                      "path":  "viewer/.htaccess",
+                      "url":  "viewer/htaccess.txt",
+                      "sha256":  "c7395f1b2f69ed7658827f8e620ec745312badbf78a1f3c839c637942da554c1",
+                      "bytes":  4042
+                  },
+                  {
+                      "path":  "viewer/index.html",
+                      "url":  "viewer/index.html",
+                      "sha256":  "430b6079bc27778440d8a2574b60fa4fa6988a0e71fef982decec3a9bebc2dfd",
+                      "bytes":  6107
+                  },
+                  {
+                      "path":  "viewer/viewer.css",
+                      "url":  "viewer/viewer.css",
+                      "sha256":  "6e9b15d8a3ab1b6481d25118e8872c6dbff9170da885b3e698d7ce3fe52eac97",
+                      "bytes":  16684
+                  },
+                  {
+                      "path":  "viewer/viewer.js",
+                      "url":  "viewer/viewer.js",
+                      "sha256":  "9ba868962cce5b097a942545d8255795c391ee9bde02598bdbc46877ebccd093",
+                      "bytes":  39162
+                  },
+                  {
+                      "path":  "viewer/web.config",
+                      "url":  "viewer/web.config",
+                      "sha256":  "21752b5078720e486678d22701d5ccab6f83fd28f2a37b70c391ccabd6c36969",
+                      "bytes":  2201
+                  }
+              ]
+}
